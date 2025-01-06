@@ -293,3 +293,7 @@ Thank you to all contributors and developers who make this showcase possible. To
 ---
 
 ### 🌟 Start Exploring and Contributing Today!
+📝 Attribution
+This project was inspired by [Gant Laborde](https://twitter.com/gantlaborde), Chief Innovation Officer of [Infinite Red](https://infinite.red/technologies/react-native).
+ Special thanks for the amazing groundwork! 🙌
+
